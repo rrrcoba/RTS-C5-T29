@@ -1,0 +1,7 @@
+ol.abc {
+    list-style-type: lower-alpha;
+}
+
+ol.numroman {
+    list-style-type: upper-roman;
+}
