@@ -1,0 +1,17 @@
+table,
+th,
+td {
+  border: 1px solid #75C8E3;
+}
+th{
+    color: rgb(130, 0, 106);
+    background-color: #0f240f;
+}
+
+td{
+    background-color: rgb(130, 0, 106);
+}
+
+.linea2 {
+    background-color: rgb(0, 135, 14);
+}
