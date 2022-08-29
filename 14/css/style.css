@@ -1,0 +1,29 @@
+body{
+    width: auto;
+    height: auto;
+    background-image: url("https://images.pexels.com/photos/52509/penguins-emperor-antarctic-life-52509.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+table, th, td {
+    border:1px inset rgb(0, 0, 0);
+}
+
+table{
+    background-color: rgb(255, 255, 142);
+    width: 100%;
+    text-align: center;
+}
+
+.title{
+    background-color: white;
+}
+
+.table{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22%;
+}
