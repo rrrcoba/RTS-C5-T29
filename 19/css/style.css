@@ -1,0 +1,11 @@
+table{
+    border: black 1px inset;
+}
+td, th {
+    border: black 1px inset;
+}
+
+.españa {
+    font-weight: bold;
+    text-align: left;
+}
