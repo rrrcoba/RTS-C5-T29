@@ -1,0 +1,22 @@
+div {
+    background: url(/img/f01.png) left bottom repeat-x,
+        url(/img/f02.png) left bottom no-repeat,
+        url(/img/f03.png) left top repeat-x;
+    background-color: #a4d3ff;
+}
+
+.prueba {
+    height: 250px;
+    width: 32%;
+    border: 5px solid red;
+    margin: 20px;
+    padding: 20px;
+}
+
+.anterior,
+.posterior {
+    height: 100px;
+    width: 16%;
+    border: 2px solid blue;
+    padding: 5px;
+}
