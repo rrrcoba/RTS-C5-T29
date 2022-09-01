@@ -14,7 +14,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/back_mantel.jpg");
+    background-image: url("../images/back_mantel.jpg");
 }
 
 .modB {
@@ -24,7 +24,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/back_mantel.jpg");
+    background-image: url("../images/back_mantel.jpg");
     background-clip: content-box;
 }
 
@@ -34,7 +34,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/back_mantel.jpg");
+    background-image: url("../images/back_mantel.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -46,7 +46,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/back_mantel.jpg");
+    background-image: url("../images/back_mantel.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-origin: content-box;
