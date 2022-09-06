@@ -1,5 +1,5 @@
 body {
-    background-image: url("/images/ac.jpg");
+    background-image: url("../images/ac.jpg");
 }
 
 .all {
@@ -58,7 +58,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/dh.jpg");
+    background-image: url("../images/dh.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -70,7 +70,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/dh.jpg");
+    background-image: url("../images/dh.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-origin: content-box;
@@ -83,7 +83,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/dh_2.jpg");
+    background-image: url("../images/dh_2.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -96,7 +96,7 @@ body {
     margin: auto;
     margin-bottom: 2rem;
     border: 1px solid black;
-    background-image: url("/images/dh_3.jpg");
+    background-image: url("../images/dh_3.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
